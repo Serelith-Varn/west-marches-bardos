@@ -2,7 +2,7 @@
   "id": "west-marches-bardos",
   "title": "West Marches Bardos",
   "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
