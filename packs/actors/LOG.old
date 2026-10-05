@@ -1,5 +1,8 @@
-2026/10/04-20:22:26.706 beac Delete type=3 #1
-2026/10/04-20:31:20.693 115d4 Level-0 table #5: started
-2026/10/04-20:31:20.699 115d4 Level-0 table #5: 460882 bytes OK
-2026/10/04-20:31:20.701 115d4 Delete type=0 #3
-2026/10/04-20:31:20.703 115d4 Manual compaction at level-0 from '!actors!1EVwrP4aUXM0UVNL' @ 72057594037927935 : 1 .. '!folders!P45TVLRauakTf2Gl' @ 0 : 0; will stop at (end)
+2026/10/05-14:06:12.233 118ac Recovering log #16
+2026/10/05-14:06:12.238 118ac Delete type=0 #16
+2026/10/05-14:06:12.238 118ac Delete type=3 #14
+2026/10/05-14:06:46.595 65dc Level-0 table #21: started
+2026/10/05-14:06:46.595 65dc Level-0 table #21: 0 bytes OK
+2026/10/05-14:06:46.601 65dc Delete type=0 #19
+2026/10/05-14:06:46.601 65dc Manual compaction at level-0 from '!actors!1EVwrP4aUXM0UVNL' @ 72057594037927935 : 1 .. '!folders!P45TVLRauakTf2Gl' @ 0 : 0; will stop at (end)
+2026/10/05-14:06:46.601 65dc Manual compaction at level-1 from '!actors!1EVwrP4aUXM0UVNL' @ 72057594037927935 : 1 .. '!folders!P45TVLRauakTf2Gl' @ 0 : 0; will stop at (end)

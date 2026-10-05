@@ -15,28 +15,35 @@
   "packs": [
     {
       "name": "actors",
-      "label": "West Marches Actors",
+      "label": "West Marches Bardos Actors",
       "path": "packs/actors",
       "type": "Actor",
       "system": "dnd5e"
     },
     {
       "name": "items",
-      "label": "West Marches Items",
+      "label": "West Marches Bardos tems",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "journals",
-      "label": "West Marches Journals",
+      "label": "West Marches Bardos Journals",
       "path": "packs/journal",
       "type": "JournalEntry",
       "system": "dnd5e"
     },
+	 {
+      "name": "npc",
+      "label": "West Marches Bardos PC",
+      "path": "packs/npc",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
     {
       "name": "scenes",
-      "label": "West Marches Scenes",
+      "label": "West Marches Bardos Scenes",
       "path": "packs/scenes",
       "type": "Scene",
       "system": "dnd5e"
