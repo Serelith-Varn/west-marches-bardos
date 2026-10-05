@@ -3,7 +3,7 @@
   "id": "west-marches-bardos",
   "title": "West Marches Bardos",
   "description": "Custom adventure module containing compendium packs, assets, journals, and characters for D&D 5e.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -111,6 +111,48 @@
       "path": "packs/journal-srs",
       "type": "JournalEntry",
       "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-npcs",
+      "label": "The Idol of Lady Scale NPCs",
+      "path": "packs/the-idol-of-lady-scale-npcs",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-item",
+      "label": "The Idol of Lady Scale Items",
+      "path": "packs/the-idol-of-lady-scale-item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-adventure",
+      "label": "The Idol of Lady Scale Adventures",
+      "path": "packs/the-idol-of-lady-scale-adventure",
+      "type": "Adventure",
+      "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-scenes",
+      "label": "The Idol of Lady Scale Scenes",
+      "path": "packs/the-idol-of-lady-scale-scenes",
+      "type": "Scene",
+      "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-actors",
+      "label": "The Idol of Lady Scale Actors",
+      "path": "packs/the-idol-of-lady-scale-actors",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "the-idol-of-lady-scale-journal",
+      "label": "The Idol of Lady Scale Journals",
+      "path": "packs/the-idol-of-lady-scale-journal",
+      "type": "JournalEntry",
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -147,6 +189,19 @@
       "packs": [
         "npc-srs",
         "journal-srs"
+      ]
+    },
+    {
+      "name": "The Idol of Lady Scale",
+      "color": "#00CC44",
+      "sorting": "a",
+      "packs": [
+        "the-idol-of-lady-scale-npcs",
+        "the-idol-of-lady-scale-item",
+        "the-idol-of-lady-scale-adventure",
+        "the-idol-of-lady-scale-scenes",
+        "the-idol-of-lady-scale-actors",
+        "the-idol-of-lady-scale-journal"
       ]
     }
   ],
