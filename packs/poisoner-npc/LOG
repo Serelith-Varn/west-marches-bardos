@@ -1,0 +1,10 @@
+2026/10/05-16:03:10.376 f300 Recovering log #8
+2026/10/05-16:03:10.381 f300 Delete type=0 #4
+2026/10/05-16:03:10.381 f300 Delete type=0 #8
+2026/10/05-16:03:10.381 f300 Delete type=3 #2
+2026/10/05-16:03:10.381 f300 Delete type=3 #6
+2026/10/05-16:04:07.622 113c8 Level-0 table #13: started
+2026/10/05-16:04:07.622 113c8 Level-0 table #13: 0 bytes OK
+2026/10/05-16:04:07.624 113c8 Delete type=0 #11
+2026/10/05-16:04:07.625 113c8 Manual compaction at level-0 from '!actors!IyIybE5t2adMEVUM' @ 72057594037927935 : 1 .. '!actors.items.effects!mmVineBlight0000.rxjB2wfV55BfBp6I.wn7K2m4XhXhItgPT' @ 0 : 0; will stop at (end)
+2026/10/05-16:04:07.625 113c8 Manual compaction at level-1 from '!actors!IyIybE5t2adMEVUM' @ 72057594037927935 : 1 .. '!actors.items.effects!mmVineBlight0000.rxjB2wfV55BfBp6I.wn7K2m4XhXhItgPT' @ 0 : 0; will stop at (end)

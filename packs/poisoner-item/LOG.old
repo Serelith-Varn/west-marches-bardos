@@ -1,0 +1,8 @@
+2026/10/05-15:55:57.531 10788 Recovering log #4
+2026/10/05-15:55:57.535 10788 Delete type=0 #4
+2026/10/05-15:55:57.535 10788 Delete type=3 #2
+2026/10/05-15:59:09.561 7dac Level-0 table #9: started
+2026/10/05-15:59:09.561 7dac Level-0 table #9: 0 bytes OK
+2026/10/05-15:59:09.562 7dac Delete type=0 #7
+2026/10/05-15:59:09.563 7dac Manual compaction at level-0 from '!items!72Nmb5AC4sbHRdJ5' @ 72057594037927935 : 1 .. '!items.effects!iiyEkdl7dCmReaJ9.V1bthdtgrqVeT11r' @ 0 : 0; will stop at (end)
+2026/10/05-15:59:09.563 7dac Manual compaction at level-1 from '!items!72Nmb5AC4sbHRdJ5' @ 72057594037927935 : 1 .. '!items.effects!iiyEkdl7dCmReaJ9.V1bthdtgrqVeT11r' @ 0 : 0; will stop at (end)

@@ -1,0 +1,16 @@
+2026/10/05-15:56:34.934 10788 Delete type=3 #1
+2026/10/05-15:58:13.586 7dac Level-0 table #5: started
+2026/10/05-15:58:13.599 7dac Level-0 table #5: 1041133 bytes OK
+2026/10/05-15:58:13.601 7dac Delete type=0 #3
+2026/10/05-15:59:09.631 7dac Level-0 table #7: started
+2026/10/05-15:59:09.640 7dac Level-0 table #7: 714822 bytes OK
+2026/10/05-15:59:09.642 7dac Delete type=0 #4
+2026/10/05-15:59:09.643 7dac Manual compaction at level-0 from '!folders!BrpsxlrHAaipn89X' @ 72057594037927935 : 1 .. '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 0 : 0; will stop at (end)
+2026/10/05-15:59:09.643 7dac Manual compaction at level-1 from '!folders!BrpsxlrHAaipn89X' @ 72057594037927935 : 1 .. '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 0 : 0; will stop at '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 15199 : 1
+2026/10/05-15:59:09.643 7dac Compacting 1@1 + 1@2 files
+2026/10/05-15:59:09.655 7dac Generated table #8@1: 6861 keys, 774101 bytes
+2026/10/05-15:59:09.655 7dac Compacted 1@1 + 1@2 files => 774101 bytes
+2026/10/05-15:59:09.657 7dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/05-15:59:09.657 7dac Delete type=2 #5
+2026/10/05-15:59:09.657 7dac Delete type=2 #7
+2026/10/05-15:59:09.670 7dac Manual compaction at level-1 from '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 15199 : 1 .. '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 0 : 0; will stop at (end)

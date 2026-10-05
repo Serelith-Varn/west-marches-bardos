@@ -3,7 +3,7 @@
   "id": "west-marches-bardos",
   "title": "West Marches Bardos",
   "description": "Custom adventure module containing compendium packs, assets, journals, and characters for D&D 5e.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -29,6 +29,13 @@
       "system": "dnd5e"
     },
     {
+      "name": "poisoner-item",
+      "label": "Poisoner's Grimoire Items",
+      "path": "packs/poisoner-item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
       "name": "journals",
       "label": "West Marches Bardos Journals",
       "path": "packs/journal",
@@ -36,10 +43,45 @@
       "system": "dnd5e"
     },
     {
+      "name": "poisoner-journal",
+      "label": "Poisoner's Grimoire Journals",
+      "path": "packs/poisoner-journal",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
       "name": "npc",
-      "label": "West Marches Bardos NPC",
+      "label": "West Marches Bardos NPCs",
       "path": "packs/npc",
       "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "poisoner-macro",
+      "label": "Poisoner's Grimoire Macros",
+      "path": "packs/poisoner-macro",
+      "type": "Macro",
+      "system": "dnd5e"
+    },
+    {
+      "name": "poisoner-npc",
+      "label": "Poisoner's Grimoire NPC",
+      "path": "packs/poisoner-npc",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "poisoner-roll-table",
+      "label": "Poisoner's Grimoire RollTable",
+      "path": "packs/poisoner-roll-table",
+      "type": "RollTable",
+      "system": "dnd5e"
+    },
+    {
+      "name": "poisoner-scene",
+      "label": "Poisoner's Grimoire Scenes",
+      "path": "packs/poisoner-scene",
+      "type": "Scene",
       "system": "dnd5e"
     },
     {
@@ -51,9 +93,23 @@
     },
     {
       "name": "pc",
-      "label": "West Marches Bardos PC",
+      "label": "West Marches Bardos PCs",
       "path": "packs/pc",
       "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "npc-srs",
+      "label": "Sociedade dos Ratos sedentes NPCs",
+      "path": "packs/npc-srs",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "journal-srs",
+      "label": "Sociedade dos Ratos sedentes Journals",
+      "path": "packs/journal-srs",
+      "type": "JournalEntry",
       "system": "dnd5e"
     }
   ],
@@ -69,6 +125,19 @@
         "npc",
         "scenes",
         "pc"
+      ]
+    },
+    {
+      "name": "Poisoner's Grimoire",
+      "color": "#00CC44",
+      "sorting": "a",
+      "packs": [
+        "poisoner-npc",
+        "poisoner-item",
+        "poisoner-journal",
+        "poisoner-macro",
+        "poisoner-scene",
+        "poisoner-roll-table"
       ]
     },
     {
