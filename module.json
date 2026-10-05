@@ -3,7 +3,7 @@
   "id": "west-marches-bardos",
   "title": "West Marches Bardos",
   "description": "Custom adventure module containing compendium packs, assets, journals, and characters for D&D 5e.",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -148,10 +148,17 @@
       "system": "dnd5e"
     },
     {
-      "name": "the-idol-of-lady-scale-journal",
+      "name": "the-idol-of-lady-scale-journals",
       "label": "The Idol of Lady Scale Journals",
-      "path": "packs/the-idol-of-lady-scale-journal",
+      "path": "packs/the-idol-of-lady-scale-journals",
       "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+	{
+      "name": "the-idol-of-lady-scale-macros",
+      "llabel": "The Idol of Lady Scale Macros",
+      "path": "packs/the-idol-of-lady-scale-macros",
+      "type": "Macro",
       "system": "dnd5e"
     }
   ],
@@ -201,7 +208,8 @@
         "the-idol-of-lady-scale-adventure",
         "the-idol-of-lady-scale-scenes",
         "the-idol-of-lady-scale-actors",
-        "the-idol-of-lady-scale-journal"
+        "the-idol-of-lady-scale-journals",
+		"the-idol-of-lady-scale-macros"
       ]
     }
   ],

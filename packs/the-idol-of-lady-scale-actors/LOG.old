@@ -1,5 +1,3 @@
-2026/10/05-16:04:13.256 c648 Recovering log #3
-2026/10/05-16:04:13.259 c648 Level-0 table #5: started
-2026/10/05-16:04:13.267 c648 Level-0 table #5: 567465 bytes OK
-2026/10/05-16:04:13.271 c648 Delete type=0 #3
-2026/10/05-16:04:13.271 c648 Delete type=3 #2
+2026/10/05-17:34:41.221 ffa4 Recovering log #26
+2026/10/05-17:34:41.225 ffa4 Delete type=0 #26
+2026/10/05-17:34:41.225 ffa4 Delete type=3 #24

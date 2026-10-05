@@ -1,8 +1,3 @@
-2026/10/05-16:03:10.409 f300 Recovering log #6
-2026/10/05-16:03:10.414 f300 Delete type=0 #6
-2026/10/05-16:03:10.414 f300 Delete type=3 #2
-2026/10/05-16:04:07.627 113c8 Level-0 table #12: started
-2026/10/05-16:04:07.627 113c8 Level-0 table #12: 0 bytes OK
-2026/10/05-16:04:07.630 113c8 Delete type=0 #10
-2026/10/05-16:04:07.636 113c8 Manual compaction at level-0 from '!folders!BrpsxlrHAaipn89X' @ 72057594037927935 : 1 .. '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 0 : 0; will stop at (end)
-2026/10/05-16:04:07.636 113c8 Manual compaction at level-1 from '!folders!BrpsxlrHAaipn89X' @ 72057594037927935 : 1 .. '!scenes.walls!wVut7LNey8w0yoC9.zwls8NRqPqhrDaQM' @ 0 : 0; will stop at (end)
+2026/10/05-17:35:41.625 11818 Recovering log #30
+2026/10/05-17:35:41.629 11818 Delete type=0 #30
+2026/10/05-17:35:41.629 11818 Delete type=3 #29

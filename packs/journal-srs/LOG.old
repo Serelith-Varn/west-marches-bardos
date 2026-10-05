@@ -1,8 +1,3 @@
-2026/10/05-15:39:32.919 b98c Recovering log #8
-2026/10/05-15:39:32.923 b98c Delete type=0 #8
-2026/10/05-15:39:32.923 b98c Delete type=3 #6
-2026/10/05-15:48:16.174 7dac Level-0 table #13: started
-2026/10/05-15:48:16.174 7dac Level-0 table #13: 0 bytes OK
-2026/10/05-15:48:16.176 7dac Delete type=0 #11
-2026/10/05-15:48:16.181 7dac Manual compaction at level-0 from '!journal!2GJviElJ49RyGlGl' @ 72057594037927935 : 1 .. '!journal.pages!yW2cOTgD32oG384i.knzxxKy4ld88CD7L' @ 0 : 0; will stop at (end)
-2026/10/05-15:48:16.181 7dac Manual compaction at level-1 from '!journal!2GJviElJ49RyGlGl' @ 72057594037927935 : 1 .. '!journal.pages!yW2cOTgD32oG384i.knzxxKy4ld88CD7L' @ 0 : 0; will stop at (end)
+2026/10/05-17:34:41.177 ffa4 Recovering log #30
+2026/10/05-17:34:41.182 ffa4 Delete type=0 #30
+2026/10/05-17:34:41.182 ffa4 Delete type=3 #28
