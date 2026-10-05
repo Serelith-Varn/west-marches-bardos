@@ -156,7 +156,7 @@
     },
 	{
       "name": "the-idol-of-lady-scale-macros",
-      "llabel": "The Idol of Lady Scale Macros",
+      "label": "The Idol of Lady Scale Macros",
       "path": "packs/the-idol-of-lady-scale-macros",
       "type": "Macro",
       "system": "dnd5e"
