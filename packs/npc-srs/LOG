@@ -1,0 +1,5 @@
+2026/10/05-15:05:16.158 e99c Delete type=3 #1
+2026/10/05-15:15:12.470 b330 Level-0 table #5: started
+2026/10/05-15:15:12.473 b330 Level-0 table #5: 46790 bytes OK
+2026/10/05-15:15:12.474 b330 Delete type=0 #3
+2026/10/05-15:15:12.481 b330 Manual compaction at level-0 from '!actors!2xwpnMt5xRwsZjXD' @ 72057594037927935 : 1 .. '!folders!ZlbmF26y5aSiWZtd' @ 0 : 0; will stop at (end)

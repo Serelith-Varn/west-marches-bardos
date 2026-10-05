@@ -1,8 +1,9 @@
 {
+  "_comment": "Module configuration for West Marches Bardos.",
   "id": "west-marches-bardos",
   "title": "West Marches Bardos",
-  "description": "Custom adventure module containing compendium packs for D&D Beyond imports, actors, items, scenes, journals, and adventures.",
-  "version": "1.0.1",
+  "description": "Custom adventure module containing compendium packs, assets, journals, and characters for D&D 5e.",
+  "version": "1.0.3",
   "author": "Serelith-Varn",
   "compatibility": {
     "minimum": "11",
@@ -22,7 +23,7 @@
     },
     {
       "name": "items",
-      "label": "West Marches Bardos tems",
+      "label": "West Marches Bardos Items",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e"
@@ -34,9 +35,9 @@
       "type": "JournalEntry",
       "system": "dnd5e"
     },
-	 {
+    {
       "name": "npc",
-      "label": "West Marches Bardos PC",
+      "label": "West Marches Bardos NPC",
       "path": "packs/npc",
       "type": "Actor",
       "system": "dnd5e"
@@ -55,5 +56,32 @@
       "type": "Actor",
       "system": "dnd5e"
     }
+  ],
+  "packFolders": [
+    {
+      "name": "West Marches Bardos",
+      "color": "#00CC44",
+      "sorting": "a",
+      "packs": [
+        "actors",
+        "items",
+        "journals",
+        "npc",
+        "scenes",
+        "pc"
+      ]
+    },
+    {
+      "name": "Sociedade dos Ratos sedentes",
+      "color": "#00CC44",
+      "sorting": "a",
+      "packs": [
+        "npc-srs",
+        "journal-srs"
+      ]
+    }
+  ],
+  "scripts": [
+    "scripts/main.js"
   ]
 }
